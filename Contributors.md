@@ -7,6 +7,7 @@ git add Contributors.md# Contributors
 - [Horusateel](https://github.com/Horusateel)
 - [Vedant Bhawnani](https://github.com/vedantbhawnani)
 - [Kashif Naqvi](https://github.com/Kashif1Naqvi)
+- [Joseph Wole-Abu](https://github.com/jwoleabu)
 - [Aravinth](https://github.com/theAravinthM) -> Exploring Open Source 🎉
 - [Giancarlo Groaznicu](https://github.com/grimmiegramm)
 - [Taylor Musolf](https://github.com/taylormusolf)
@@ -60,6 +61,7 @@ Pereira
 - [Valentyn Novosydliuk](https://github.com/ValentynNVS)
 /Hyungseop 1872a3a8f (Add Hyungseop to Contributors list)
 - [WilsonDai]
+- [ Jayesh Chouhan ](https://github.com/chouhan-jayesh)
 -[Anvaya Solanki](https://github.com/anvaya-solanki)
 - [Dev Garg](https://github.com/Dev771)
 - [hyunwoo](https://github.com/Na-hyunwoo)
